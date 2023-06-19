@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SuXinShi';  /* 命名字体 */
+  src: url('fonts/SuXinShi.TTF'); /* 引入字体 */
+  font-weight: 700;         /* 100-900 */  
+  font-style: normal;
+}
